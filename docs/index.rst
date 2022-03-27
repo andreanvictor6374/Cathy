@@ -1,24 +1,20 @@
-Cathy Discord AI chat bot documentation!
-========================================
+.. ai docs documentation master file, created by
+   sphinx-quickstart on Sun Mar 27 13:12:00 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-Artificial intelligence (AI) chat bot for Discord written in Python
+Welcome to ai docs's documentation!
+===================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Overview
-
-   pages/getting-started
-   pages/invite-to-your-server
-   pages/chat-with-existing-bot
-   pages/setup-your-own-bot
+   :caption: Contents:
 
 
-Links
-=====
 
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
 * :ref:`search`
-* Invite Cathy: https://cathy.devdungeon.com/invite/
-* Home page: https://cathy.devdungeon.com/
-* Source code: https://github.com/DevDungeon/ChattyCathy
-* Chat with Cathy on DevDungeon server: https://discord.gg/unSddKm
-* Contact: cathy@devdungeon.com

@@ -23,6 +23,7 @@ Optionally, to build the documentation yourself from the ``docs/`` folder::
   pip install sphinx
   cd docs/
   make html
+  sphinx-quickstart docs
 
 
 Source code
