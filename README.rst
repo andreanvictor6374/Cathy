@@ -16,6 +16,7 @@ Documentation
 =============
 
 Read the documentation online at http://cathy-docs.rtfd.io/
+https://github.com/DevDungeon/Cathy/tree/master/docs
 
 Optionally, to build the documentation yourself from the ``docs/`` folder::
   python3 -m venv venv

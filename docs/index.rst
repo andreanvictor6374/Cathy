@@ -10,6 +10,8 @@ Welcome to ai docs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   pages/inviting-the-bot
+
 
 
 Indices and tables
@@ -18,3 +20,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
