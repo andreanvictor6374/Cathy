@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(
-    name='cathy',
-    version='4.0.1',
+    name='trial-bot',
+    version='1.1.1',
     description='Discord chat bot using AIML artificial intelligence.',
     long_description="See https://github.com/DevDungeon/cathy",
     url='https://github.com/DevDungeon/ChattyCathy',

@@ -28,3 +28,13 @@
 > Project release []: 1.1.1
 > Project language [en]:
 ```
+
+## add webhook
+```bash
+1. go to read the docs project 
+2. admin
+3. Integrations
+4. Add webbook
+5. copy the link and paste to github (setting -> webhook -> payload url)
+6. 
+```
