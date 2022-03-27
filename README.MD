@@ -43,3 +43,11 @@
 
 ## creating pypi
 entry point: https://stackoverflow.com/questions/774824/explain-python-entry-points
+
+## we see this when the project is too similar with the existing one
+```bash
+Error during upload. Retry with the --verbose option for more details.
+HTTPError: 400 Bad Request from https://upload.pypi.org/legacy/
+The name 'trial-bot' is too similar to an existing project. See https://pypi.org/help/#project-name for more information.
+
+```
