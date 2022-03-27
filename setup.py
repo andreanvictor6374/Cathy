@@ -3,11 +3,11 @@ from setuptools import setup
 setup(
     name='trial-bot',
     version='1.1.1',
-    description='Discord chat bot using AIML artificial intelligence.',
+    description='Discord chat bot.',
     long_description="See https://github.com/DevDungeon/cathy",
     url='https://github.com/DevDungeon/ChattyCathy',
-    author='DevDungeon',
-    author_email='nanodano@devdungeon.com',
+    author='Victor',
+    author_email='andreanvictor6374@gmail.com',
     license='GPL-3.0',
     packages=['cathy'],
     entry_points={

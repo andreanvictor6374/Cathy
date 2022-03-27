@@ -36,5 +36,11 @@
 3. Integrations
 4. Add webbook
 5. copy the link and paste to github (setting -> webhook -> payload url)
-6. 
+6. python setup.py sdist (to generate dist folder)
+7. pip install twine (to push to pypi)
+8. twine upload dist/trial-bot-1.1.1.tar.gz
 ```
+
+## creating pypi
+
+entry point: https://stackoverflow.com/questions/774824/explain-python-entry-points
