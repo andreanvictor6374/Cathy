@@ -19,7 +19,7 @@ Read the documentation online at http://cathy-docs.rtfd.io/
 
 Optionally, to build the documentation yourself from the ``docs/`` folder::
 
-  pip install sphinx
+  pip install sphinx (rst package)
   cd docs/
   make html
 
