@@ -18,8 +18,9 @@ Documentation
 Read the documentation online at http://cathy-docs.rtfd.io/
 
 Optionally, to build the documentation yourself from the ``docs/`` folder::
-
-  pip install sphinx (rst package)
+  python3 -m venv venv
+  source venv/bin/activate
+  pip install sphinx
   cd docs/
   make html
 
