@@ -1,0 +1,5 @@
+===================================
+Inviting Chatty Cathy to your sever
+===================================
+
+This will cover how to invite the existing chat bot to your own Discord server without  having to run or host your own.
